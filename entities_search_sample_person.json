@@ -1,0 +1,1813 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "goog": "http://schema.googleapis.com/",
+    "EntitySearchResult": "goog:EntitySearchResult",
+    "detailedDescription": "goog:detailedDescription",
+    "resultScore": "goog:resultScore",
+    "kg": "http://g.co/kg"
+  },
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/036hf4",
+        "name": "Ryan Reynolds",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "Canadian actor",
+        "image": {
+          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcQzQtZutVFxvMtXx0j6Qbd-RqQ-M2gYbMYj36v8H5vUuiu62Esv",
+          "url": "https://commons.wikimedia.org/wiki/File:Ryan_Reynolds_by_Gage_Skidmore.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Ryan Rodney Reynolds is a Canadian actor, film producer, and screenwriter. Some of his most prominent roles are Billy Simpson in the YTV Canadian teen soap opera Hillside, Michael Bergen on the ABC sitcom Two Guys and a Girl, and various comic book characters including Marvel Comics superheroes Hannibal King in Blade: Trinity, and Wade Wilson / Deadpool in X-Men Origins: Wolverine, Deadpool, and Deadpool 2; the latter role earned him a Golden Globe Award nomination. ",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Reynolds",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 705.680237
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/02ph448",
+        "name": "Ryan Reynolds",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Football player",
+        "detailedDescription": {
+          "articleBody": "Ryan Reynolds is a former linebacker for the Oklahoma Sooners. He was a four-year standout in football and judo in high school, both at Lake Havasu High School in Arizona and at Bishop Gorman High School in Summerlin, Nevada, where he was recognized nationally.",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Reynolds_(American_football)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 195.399826
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11c32g6p9n",
+        "name": "Ryan Reynolds",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Politician"
+      },
+      "resultScore": 183.392807
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0_hk6kh",
+        "name": "Ryan Reynolds",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Kevin Reynolds' brother"
+      },
+      "resultScore": 151.706573
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11dx9fg8dx",
+        "name": "Ryan Reynolds",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "Shane Reynolds' son"
+      },
+      "resultScore": 145.382553
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11bwcsnt_3",
+        "name": "Ryan Reynolds",
+        "@type": [
+          "Thing",
+          "Person"
+        ]
+      },
+      "resultScore": 141.888062
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11c2y8kkjj",
+        "name": "Ryan Reynolds Quiz",
+        "@type": [
+          "Thing",
+          "VideoGame"
+        ],
+        "description": "Video game"
+      },
+      "resultScore": 131.50412
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0j48x7s",
+        "name": "Jim Reynolds",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Ryan Reynolds' father"
+      },
+      "resultScore": 79.349609
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0j48x8l",
+        "name": "Tammy Reynolds",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Salesperson"
+      },
+      "resultScore": 78.875748
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/02b9g4",
+        "name": "Ryan Seacrest",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American radio personality",
+        "image": {
+          "contentUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcSkiCHRny6J4FZh63PTX7uff0DK22QmIjifcY3kWWbFQ2NFryOQ",
+          "url": "https://commons.wikimedia.org/wiki/File:Ryan_Seacrest_2013.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Ryan John Seacrest is an American radio personality, television host, and producer. Seacrest is known for hosting the competition show American Idol, the syndicated countdown program American Top 40, and the KIIS-FM morning radio show On Air with Ryan Seacrest. ",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Seacrest",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.ryanseacrest.com/"
+      },
+      "resultScore": 72.758949
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0187y5",
+        "name": "Burt Reynolds",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcSC6I1nqTNzquHES3QxeMXeSsmb49x2t25lZQpvKBwDQ_PJRKXc",
+          "url": "https://commons.wikimedia.org/wiki/File:Burt_Reynolds_1991_portrait_crop.jpg"
+        }
+      },
+      "resultScore": 41.62093
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/02rdq9w",
+        "name": "Buying the Cow",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2002 film",
+        "detailedDescription": {
+          "articleBody": "Buying the Cow is a 2002 American comedy film directed by Walt Becker and starring Jerry O'Connell, Ryan Reynolds, Alyssa Milano and Bridgette L. Wilson.",
+          "url": "https://en.wikipedia.org/wiki/Buying_the_Cow",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 30.323078
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/07kbd5d",
+        "name": "Buried",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2010 film",
+        "url": "http://history.sundance.org/films/6563/buried"
+      },
+      "resultScore": 28.544258
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0_4yjl0",
+        "name": "Jack Ryan",
+        "@type": [
+          "MovieSeries",
+          "Thing"
+        ],
+        "description": "Film series",
+        "detailedDescription": {
+          "articleBody": "The Jack Ryan film series is an American series of thriller films, based on the fictional character of Jack Ryan, who originally appeared in a series of books by Tom Clancy. In the series of five films, four actors have portrayed Ryan.\n",
+          "url": "https://en.wikipedia.org/wiki/Jack_Ryan_(film_series)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 27.886002
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11g8v3pk8f",
+        "name": "Chester Reynolds",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Politician",
+        "detailedDescription": {
+          "articleBody": "Chester Ambrose \"Ches\" Reynolds was a provincial politician from Alberta, Canada. He served as a member of the Legislative Assembly of Alberta from 1940 to 1944, sitting as an Social Credit member from the constituency of Stettler.\n",
+          "url": "https://en.wikipedia.org/wiki/Chester_Reynolds",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 27.318323
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0b67_6f",
+        "name": "We All Fall Down",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2000 film"
+      },
+      "resultScore": 27.233486
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/027hy5b",
+        "name": "The In-Laws",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2003 film",
+        "detailedDescription": {
+          "articleBody": "The In-Laws is a 2003 American comedy film starring Michael Douglas, Albert Brooks, Candice Bergen, Robin Tunney, Maria Ricossa, Lindsay Sloane and Ryan Reynolds. The film is a remake of the original 1979 cult classic of the same name. Scenes for the 2003 film were shot on location in Chicago. The film was a box office failure and received negative reviews.",
+          "url": "https://en.wikipedia.org/wiki/The_In-Laws_(2003_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 25.824434
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11f3ws3v46",
+        "name": "Detective Pikachu",
+        "@type": [
+          "Thing",
+          "Movie"
+        ],
+        "description": "2019 film",
+        "detailedDescription": {
+          "articleBody": "Detective Pikachu is an upcoming action mystery film directed by Rob Letterman and written by Nicole Perlman and Letterman, based on the video game of the same name. ",
+          "url": "https://en.wikipedia.org/wiki/Detective_Pikachu_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 25.636154
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11cjqs5gny",
+        "name": "2016 MTV Movie Awards",
+        "@type": [
+          "Event",
+          "Thing"
+        ],
+        "description": "Award ceremony",
+        "detailedDescription": {
+          "articleBody": "The 2016 MTV Movie Awards was held on June 15, 2016 from Warner Brothers Studios in Burbank, California, as the first such event in 21 years as well as being the first Movie Awards to be held outdoors. ",
+          "url": "https://en.wikipedia.org/wiki/2016_MTV_Movie_Awards",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 25.581947
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/05pcn59",
+        "name": "MTV Movie Award for Best Kiss",
+        "@type": [
+          "Thing"
+        ],
+        "description": "Award",
+        "detailedDescription": {
+          "articleBody": "This is a following list for the MTV Movie Award winners and nominees for Best Kiss. Kristen Stewart &amp; Robert Pattinson won for \"The Twilight Saga films\" in four consecutive years.",
+          "url": "https://en.wikipedia.org/wiki/MTV_Movie_Award_for_Best_Kiss",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 25.198177
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0kv50br",
+        "name": "Ryan Sissons",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "New Zealand triathlete",
+        "detailedDescription": {
+          "articleBody": "Ryan Sissons is a New Zealand triathlete. Born in Bulawayo, Zimbabwe, Sissons represented New Zealand at the 2012 London Olympics in the triathlon where he finished 33rd. ",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Sissons",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 24.767605
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0bsk3l",
+        "name": "Ordinary Magic",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "1993 film",
+        "detailedDescription": {
+          "articleBody": "Ordinary Magic is a 1993 Canadian film about a boy who is raised in India by his father. The story is based on the novel Ganesh by Malcolm Bosse with Canada substituting in the film for the book's Midwestern USA location. ",
+          "url": "https://en.wikipedia.org/wiki/Ordinary_Magic",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 24.537533
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0k022l3",
+        "name": "The Whale",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2011 film",
+        "url": "http://www.thewhalemovie.com/"
+      },
+      "resultScore": 24.450142
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/05ztrmj",
+        "name": "MTV Movie Award for Best Fight",
+        "@type": [
+          "Thing"
+        ],
+        "description": "Award",
+        "detailedDescription": {
+          "articleBody": "The MTV Movie Award for Best Fight is an award presented to actors and characters for quality fight scenes in films at the MTV Movie Awards, a ceremony established in 1992. ",
+          "url": "https://en.wikipedia.org/wiki/MTV_Movie_Award_for_Best_Fight",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.mtv.com/ontv/movieawards/"
+      },
+      "resultScore": 24.037708
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0p4hccq",
+        "name": "Critics' Choice Movie Award for Best Actor in a Comedy",
+        "@type": [
+          "Thing"
+        ],
+        "description": "Award",
+        "detailedDescription": {
+          "articleBody": "The Critics' Choice Movie Award for Best Actor in a Comedy is one of the awards given to people working in the motion picture industry by the Broadcast Film Critics Association at their annual Critics' Choice Movie Awards.",
+          "url": "https://en.wikipedia.org/wiki/Critics'_Choice_Movie_Award_for_Best_Actor_in_a_Comedy",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 23.332661
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0pz91",
+        "name": "Adam Sandler",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcQyhtozFLq7lNjU25HrLX0ECqJb793YC4KEVmKhhJXC0pk_TBJN",
+          "url": "https://commons.wikimedia.org/wiki/File:Adam_Sandler_6821.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Adam Richard Sandler is an American actor, comedian, screenwriter, film producer, and musician. After becoming a Saturday Night Live cast member, Sandler went on to star in many Hollywood feature films that combined have grossed over $2 billion at the box office. ",
+          "url": "https://en.wikipedia.org/wiki/Adam_Sandler",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 22.891096
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/09sy6l",
+        "name": "Coming Soon",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "1999 film",
+        "detailedDescription": {
+          "articleBody": "Coming Soon is a 1999 American romantic comedy film and is also Ashton Kutcher's debut role.",
+          "url": "https://en.wikipedia.org/wiki/Coming_Soon_(1999_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 22.534178
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/048tv9",
+        "name": "Blade: Trinity",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2004 film",
+        "detailedDescription": {
+          "articleBody": "Blade: Trinity is a 2004 American superhero film written, produced and directed by David S. Goyer, who also wrote the screenplays to Blade and Blade II. ",
+          "url": "https://en.wikipedia.org/wiki/Blade:_Trinity",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 22.339386
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/09w4w7",
+        "name": "Foolproof",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2003 film",
+        "detailedDescription": {
+          "articleBody": "Foolproof is a 2003 Canadian heist film directed by William Phillips and starring Ryan Reynolds, David Suchet, Kristin Booth, Joris Jarsky, and James Allodi.\n",
+          "url": "https://en.wikipedia.org/wiki/Foolproof_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.foolproofthemovie.com"
+      },
+      "resultScore": 21.951336
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0ngtr8g",
+        "name": "Ed Skrein",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "Actor",
+        "image": {
+          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcTaqAOX5f7cRxY4XEGiKfY5tli-Ea8LUovH05XmKN_JAXEKbYLa",
+          "url": "https://commons.wikimedia.org/wiki/File:Ed_Skrein_(21366540989).jpg"
+        }
+      },
+      "resultScore": 20.987789
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0421v9q",
+        "name": "The Proposal",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2009 film",
+        "detailedDescription": {
+          "articleBody": "The Proposal is a 2009 American romantic comedy film directed by Anne Fletcher and written by Peter Chiarelli. The film stars Sandra Bullock and Ryan Reynolds with Betty White, Mary Steenburgen and Craig T. Nelson. ",
+          "url": "https://en.wikipedia.org/wiki/The_Proposal_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://theproposal.movies.go.com/"
+      },
+      "resultScore": 20.46394
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/08dr9f",
+        "name": "School of Life",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2005 film",
+        "detailedDescription": {
+          "articleBody": "School of Life is a 2005 made-for-television comedy-drama film starring Ryan Reynolds about a teacher who moves to a town and shakes the old school ways up a bit.",
+          "url": "https://en.wikipedia.org/wiki/School_of_Life",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 20.334301
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0gkcdgw",
+        "name": "Teen Choice Award for Choice Hissy Fit: Film",
+        "@type": [
+          "Thing"
+        ],
+        "description": "Award"
+      },
+      "resultScore": 20.232079
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/077n53",
+        "name": "Waiting...",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2005 film",
+        "detailedDescription": {
+          "articleBody": "Waiting... is a 2005 American workplace comedy film starring Ryan Reynolds, Anna Faris, and Justin Long. It was written and directed by Rob McKittrick. McKittrick wrote the screenplay while working as a waiter. The film is the first effort by McKittrick as a writer-director.\n",
+          "url": "https://en.wikipedia.org/wiki/Waiting..._(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.waitingthefilm.com/"
+      },
+      "resultScore": 19.990061
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0hhtgcw",
+        "name": "38th People's Choice Awards",
+        "@type": [
+          "Event",
+          "Thing"
+        ],
+        "description": "Award ceremony",
+        "detailedDescription": {
+          "articleBody": "The 38th People's Choice Awards, honoring the best in popular culture for 2011, were held on January 11, 2012 at the Nokia Theatre in Los Angeles, California, and were broadcast live on CBS at 9:00 pm ET. This year's ceremony was hosted by Kaley Cuoco.\n",
+          "url": "https://en.wikipedia.org/wiki/38th_People's_Choice_Awards",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 19.946842
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11c5b0ndvv",
+        "name": "Ryan James Reynolds",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "Politician"
+      },
+      "resultScore": 19.902225
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0279jlm",
+        "name": "Serving in Silence: The Margarethe Cammermeyer Story",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "1995 film",
+        "detailedDescription": {
+          "articleBody": "Serving in Silence: The Margarethe Cammermeyer Story is a 1995 American television film that aired on NBC and stars Glenn Close and Judy Davis.",
+          "url": "https://en.wikipedia.org/wiki/Serving_in_Silence:_The_Margarethe_Cammermeyer_Story",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 19.742008
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11dxb23pkm",
+        "name": "Madelaine Petsch",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "Actress",
+        "image": {
+          "contentUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcRrOETvwMgmnkmSOLGoQNEVFDLNi-1eHO2jXU3WbEHWWAB-owpY",
+          "url": "https://en.wikipedia.org/wiki/Madelaine_Petsch"
+        },
+        "detailedDescription": {
+          "articleBody": "Madelaine Grobbelaar Petsch is an American actress. She is known for portraying Cheryl Blossom on The CW television series Riverdale.",
+          "url": "https://en.wikipedia.org/wiki/Madelaine_Petsch",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 19.659504
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0k8pczp",
+        "name": "Stephen Jenness",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "New Zealand field hockey player",
+        "detailedDescription": {
+          "articleBody": "Stephen Jenness is a New Zealand field hockey player. At the 2012 Summer Olympics, he competed for the national team in the men's tournament.",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Jenness",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 19.455692
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/01qj95",
+        "name": "Morena Baccarin",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American-Brazilian actress",
+        "image": {
+          "contentUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcQSwN2Z6Y6JAdzWTB5393XJsUxOVEkKiP_gkkOR3VLdyUMFbJ9N",
+          "url": "https://ast.wikipedia.org/wiki/Morena_Baccarin"
+        },
+        "detailedDescription": {
+          "articleBody": "Morena Baccarin is a Brazilian-American actress. She is known for portraying Inara Serra in the series Firefly and the follow-up film Serenity, Adria in the series Stargate SG-1 and the follow-up film Stargate: The Ark of Truth, Anna in the 2009 version of the series V, Vanessa in the superhero comedy film Deadpool and its sequel Deadpool 2, and Jessica Brody in the Showtime series Homeland. ",
+          "url": "https://en.wikipedia.org/wiki/Morena_Baccarin",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 18.722969
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0p4gtr1",
+        "name": "Critics' Choice Movie Award for Best Actor in an Action Movie",
+        "@type": [
+          "Thing"
+        ],
+        "description": "Award",
+        "detailedDescription": {
+          "articleBody": "The Critics' Choice Movie Award for Best Actor in an Action Movie is a retired award that was handed out to people working in the motion picture industry by the Broadcast Film Critics Association at their annual Critics' Choice Movie Awards from 2012 to 2016.",
+          "url": "https://en.wikipedia.org/wiki/Critics'_Choice_Movie_Award_for_Best_Actor_in_an_Action_Movie",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 18.437178
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11cmrws3vr",
+        "name": "The Hitman's Bodyguard",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2017 film",
+        "detailedDescription": {
+          "articleBody": "The Hitman's Bodyguard is a 2017 American action comedy film directed by Patrick Hughes and written by Tom O'Connor, whose script was on the 2011 Black List survey. The film stars Ryan Reynolds, Samuel L. ",
+          "url": "https://en.wikipedia.org/wiki/The_Hitman's_Bodyguard",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 18.409296
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0k8pcsh",
+        "name": "Hugo Inglis",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "New Zealand field hockey player",
+        "detailedDescription": {
+          "articleBody": "Hugo Inglis is a New Zealand field hockey player. At the 2012 Summer Olympics, he competed for the national team in the men's tournament. He represents the Uttar Pradesh Wizards in the Hockey India League. ",
+          "url": "https://en.wikipedia.org/wiki/Hugo_Inglis",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 18.226974
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/06w6c6w",
+        "name": "Paper Man",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2009 film",
+        "detailedDescription": {
+          "articleBody": "Paper Man is a 2009 independent comedy-drama film written and directed by Kieran and Michele Mulroney. The film stars Jeff Daniels as a struggling writer who relies on a childhood imaginary friend to help him with life decisions, Emma Stone as a 17 year old high school student who befriends him, and Ryan Reynolds as the made up Captain Excellent.",
+          "url": "https://en.wikipedia.org/wiki/Paper_Man_(2009_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.papermanthemovie.com/"
+      },
+      "resultScore": 18.164463
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/048hvr",
+        "name": "National Lampoon's Van Wilder",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2002 film",
+        "detailedDescription": {
+          "articleBody": "National Lampoon's Van Wilder is a 2002 romantic comedy film directed by Walt Becker and written by Brent Goldberg and David T. Wagner. This movie was said to be inspired by the real life experiences of Bert Kreischer while he attended Florida State University.\nNational Lampoon's Van Wilder stars Ryan Reynolds as the title character alongside Tara Reid, Kal Penn, and Tim Matheson. ",
+          "url": "https://en.wikipedia.org/wiki/Van_Wilder",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 18.010353
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/026698d",
+        "name": "Sabrina the Teenage Witch",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "1996 film",
+        "detailedDescription": {
+          "articleBody": "Sabrina the Teenage Witch is a 1996 American television film adaptation based on the comic book series of the same name from Archie Comics. ",
+          "url": "https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 18.000467
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/06_bq1",
+        "name": "Blake Lively",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American actress",
+        "image": {
+          "contentUrl": "http://t3.gstatic.com/images?q=tbn:ANd9GcTuXVtgpJk2UvJDAeTS5l_Dqe1hVdLNtb13IjDOrgpUtrcZzEMA",
+          "url": "https://commons.wikimedia.org/wiki/File:Blake_Lively_Cannes_2016_3.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Blake Ellender Lively is an American actress. She is known for playing as Serena van der Woodsen in the CW teen-drama television series Gossip Girl. ",
+          "url": "https://en.wikipedia.org/wiki/Blake_Lively",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.916069
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0jt86wn",
+        "name": "2010 MTV Movie Awards",
+        "@type": [
+          "Thing",
+          "Event"
+        ],
+        "description": "Award ceremony",
+        "detailedDescription": {
+          "articleBody": "The 2010 MTV Movie Awards was the 19th annual ceremony which took place on June 6, 2010 in Los Angeles, California. Aziz Ansari served as a host for the ceremony. ",
+          "url": "https://en.wikipedia.org/wiki/2010_MTV_Movie_Awards",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.875759
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/05f716g",
+        "name": "Yu Tsai",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American photographer",
+        "detailedDescription": {
+          "articleBody": "Yu Tsai is an American photographer based in Los Angeles and New York.",
+          "url": "https://en.wikipedia.org/wiki/Yu_Tsai",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.706894
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0fq2d51",
+        "name": "Safe House",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2012 film",
+        "detailedDescription": {
+          "articleBody": "Safe House is a 2012 American-South African spy action-thriller film directed by Daniel Espinosa, starring Denzel Washington and Ryan Reynolds. ",
+          "url": "https://en.wikipedia.org/wiki/Safe_House_(2012_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.nooneissafe.net/"
+      },
+      "resultScore": 17.576139
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/09_xsh",
+        "name": "Robert Schwentke",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "German film director",
+        "detailedDescription": {
+          "articleBody": "Robert Schwentke is a German film director and screenwriter.",
+          "url": "https://en.wikipedia.org/wiki/Robert_Schwentke",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.500786
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0d9w08",
+        "name": "Finder's Fee",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2001 film",
+        "detailedDescription": {
+          "articleBody": "Finder's Fee is a 2001 American film directed by Jeff Probst from his original screenplay.",
+          "url": "https://en.wikipedia.org/wiki/Finder's_Fee",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.47081
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/04mtgbh",
+        "name": "Nora Arnezeder",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "French actress",
+        "image": {
+          "contentUrl": "http://t3.gstatic.com/images?q=tbn:ANd9GcSJFhRVRoq0SkA85FPGijoma2Ee3q6huf3uZhlUhNANNqzuMbzE",
+          "url": "https://commons.wikimedia.org/wiki/File:Nora_Arnezeder_2.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Nora Arnezeder is a French actress, singer and writer.",
+          "url": "https://en.wikipedia.org/wiki/Nora_Arnezeder",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.357609
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/026fzxx",
+        "name": "Laura Wasser",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American attorney",
+        "detailedDescription": {
+          "articleBody": "Laura Allison Wasser is an American attorney specializing in divorce. Her clients have included Ryan Reynolds, Heidi Klum, Ashton Kutcher, Christina Aguilera, Marta Kauffman, and Johnny Depp, as well as pro bono clients from the Harriet Buhai Center for Family Law. ",
+          "url": "https://en.wikipedia.org/wiki/Laura_Wasser",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.330725
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11f55840hz",
+        "name": "2018 ad:tech Sydney",
+        "@type": [
+          "Thing",
+          "Event"
+        ],
+        "description": "Event"
+      },
+      "resultScore": 17.220083
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0k8pfpr",
+        "name": "Ryan Taylor",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Olympic athlete",
+        "detailedDescription": {
+          "articleBody": "Ryan Taylor is a New Zealand rifle shooter. He competed in the 50 m rifle prone event at the 2012 Summer Olympics, where he placed 25th.",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Taylor_(sport_shooter)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.215872
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11fxb8k5q9",
+        "name": "The Little Stranger",
+        "@type": [
+          "Thing",
+          "Movie"
+        ],
+        "description": "2018 film",
+        "detailedDescription": {
+          "articleBody": "The Little Stranger is an upcoming British supernatural horror film directed by Lenny Abrahamson and written by Lucinda Coxon, based on the novel of same name by Sarah Waters. ",
+          "url": "https://en.wikipedia.org/wiki/The_Little_Stranger_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.158049
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/08vyhc",
+        "name": "Just Friends",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2005 film",
+        "detailedDescription": {
+          "articleBody": "Just Friends is a 2005 American romantic comedy film directed by Roger Kumble, written by Adam 'Tex' Davis and starring Ryan Reynolds, Amy Smart, Anna Faris, Chris Klein and Christopher Marquette. ",
+          "url": "https://en.wikipedia.org/wiki/Just_Friends",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 17.022636
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0bh8yn3",
+        "name": "Green Lantern",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2011 film",
+        "image": {
+          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcTvhUfXHk9fLvXntC27U1iG4cDFq5BLeAbjJxVxT8kJ26SYEhhl",
+          "url": "https://commons.wikimedia.org/wiki/File:WonderCon_2011_-_Ryan_Reynolds_and_Blake_Lively_from_the_Green_Lantern_movie_(5580822813).jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Green Lantern is a 2011 American superhero film based on the DC Comics character of the same name. The film stars Ryan Reynolds, Blake Lively, Peter Sarsgaard, Mark Strong, Angela Bassett and Tim Robbins, with Martin Campbell directing a script by Greg Berlanti and comic book writers Michael Green and Marc Guggenheim, which was subsequently rewritten by Michael Goldenberg. ",
+          "url": "https://en.wikipedia.org/wiki/Green_Lantern_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://greenlanternmovie.warnerbros.com"
+      },
+      "resultScore": 17.016779
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0147dk",
+        "name": "Will Smith",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcQDQdkl7ly5wLB2l_DK9r23pgbeY0qBl3kx2f9E-wTrkkKF1sVG",
+          "url": "https://commons.wikimedia.org/wiki/File:Will_Smith_by_Gage_Skidmore.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Willard Carroll Smith Jr. is an American actor, producer, rapper, comedian, and songwriter. In April 2007, Newsweek called him \"the most powerful actor in Hollywood\". ",
+          "url": "https://en.wikipedia.org/wiki/Will_Smith",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.willsmith.com/"
+      },
+      "resultScore": 16.998751
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0gxrl_m",
+        "name": "R.I.P.D.",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2013 film",
+        "detailedDescription": {
+          "articleBody": "R.I.P.D. is a 2013 American science fantasy action comedy film starring Jeff Bridges and Ryan Reynolds. Robert Schwentke directed the film based on a screenplay adapted from the comic book Rest in Peace Department by Peter M. Lenkov. ",
+          "url": "https://en.wikipedia.org/wiki/R.I.P.D.",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 16.970045
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/02vq16v",
+        "name": "Fireflies in the Garden",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2008 film",
+        "detailedDescription": {
+          "articleBody": "Fireflies in the Garden is a 2008 American drama film written and directed by Dennis Lee and starring Willem Dafoe, Ryan Reynolds, and Julia Roberts. ",
+          "url": "https://en.wikipedia.org/wiki/Fireflies_in_the_Garden",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 16.854105
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11c48sbsb9",
+        "name": "Life",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2017 film",
+        "detailedDescription": {
+          "articleBody": "Life is a 2017 American science fiction horror film directed by Daniel Espinosa, written by Rhett Reese and Paul Wernick and starring Jake Gyllenhaal, Rebecca Ferguson, and Ryan Reynolds. ",
+          "url": "https://en.wikipedia.org/wiki/Life_(2017_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 16.850857
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0b6b5z",
+        "name": "Scott Bloom",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American actor",
+        "detailedDescription": {
+          "articleBody": "Scott Matthew Bloom is an American actor and film producer.",
+          "url": "https://en.wikipedia.org/wiki/Scott_Bloom",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 16.586634
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/02z3rqk",
+        "name": "Definitely, Maybe",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2008 film",
+        "detailedDescription": {
+          "articleBody": "Definitely, Maybe is a 2008 romantic comedy-drama film written and directed by Adam Brooks, and starring Ryan Reynolds, Isla Fisher, Rachel Weisz, Elizabeth Banks, Abigail Breslin, and Kevin Kline. ",
+          "url": "https://en.wikipedia.org/wiki/Definitely,_Maybe",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.definitelymaybemovie.com/"
+      },
+      "resultScore": 16.44692
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0fby2t",
+        "name": "Jonah Hill",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t3.gstatic.com/images?q=tbn:ANd9GcSzxDZ3lcETEcab4EAMNNyMMY1G1gCUsiBPVIxend19MGddGsu1",
+          "url": "https://commons.wikimedia.org/wiki/File:Jonah_Hill_TIFF_2011.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Jonah Hill Feldstein is an American actor, producer, screenwriter, and comedian. Hill is known for his comedic roles in films such as Accepted, Grandma's Boy, Superbad, Knocked Up, Forgetting Sarah Marshall, Get Him to the Greek, 21 Jump Street, This Is the End, 22 Jump Street, and War Dogs, as well as his performances in Moneyball and The Wolf of Wall Street, for which he received Academy Award nominations for Best Supporting Actor.\n",
+          "url": "https://en.wikipedia.org/wiki/Jonah_Hill",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 16.229328
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/06lvlf",
+        "name": "Channing Tatum",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBDuCbRnVTAE7iXgeOieydJKQf_3dmz5YwfCLcifbzXXMEE6w-",
+          "url": "https://commons.wikimedia.org/wiki/File:Channing_Tatum_July_2015.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Channing Matthew Tatum is an American actor. Tatum made his film debut in the drama film Coach Carter. His breakthrough role was in the 2006 dance film Step Up, which introduced him to a wider audience. ",
+          "url": "https://en.wikipedia.org/wiki/Channing_Tatum",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.channingtatumunwrapped.com/"
+      },
+      "resultScore": 16.217567
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/05zrvfd",
+        "name": "MTV Movie Award for Best Scared-As-Shit Performance",
+        "@type": [
+          "Thing"
+        ],
+        "description": "Award",
+        "detailedDescription": {
+          "articleBody": "This is a following list for the MTV Movie Award winners for Best Scared-As-Shit Performance. The award was first given out in 2005 and then 2006. In 2010 this award was renamed from Best Frightened Performance. The award was not presented in 2012. In 2013, it was given back its original name, Best Scared-As-Shit Performance. As of 2016, there have been seven winners of the award with five women and two men. ",
+          "url": "https://en.wikipedia.org/wiki/MTV_Movie_Award_for_Best_Scared-As-Shit_Performance",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 16.152334
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0120x8kk",
+        "name": "Criminal",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2016 film",
+        "detailedDescription": {
+          "articleBody": "Criminal is a 2016 American-British action crime thriller drama film directed by Ariel Vromen and written by Douglas Cook and David Weisberg. The film is about a convict who is implanted with a dead CIA agent's memories to finish an assignment. ",
+          "url": "https://en.wikipedia.org/wiki/Criminal_(2016_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 16.072376
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0w33_v_",
+        "name": "The Captive",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2014 film",
+        "detailedDescription": {
+          "articleBody": "The Captive, formerly Queen of the Night and Captives, is a 2014 Canadian thriller film directed by Atom Egoyan and co-written with David Fraser. The film stars Ryan Reynolds, Scott Speedman, Rosario Dawson, Mireille Enos, Kevin Durand, and Alexia Fast. ",
+          "url": "https://en.wikipedia.org/wiki/The_Captive_(2014_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.995667
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/08h41d",
+        "name": "Rob McKittrick",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American filmmaker",
+        "detailedDescription": {
+          "articleBody": "Rob McKittrick is an American filmmaker whose directorial debut was the 2005 independent film Waiting..., starring Ryan Reynolds. He also wrote the sequel to the film, Still Waiting....",
+          "url": "https://en.wikipedia.org/wiki/Rob_McKittrick",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.895111
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11b6_6j1jp",
+        "name": "James Noir",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Actor"
+      },
+      "resultScore": 15.833089
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11b8_rg5c0",
+        "name": "Lil Rel Howery",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcTU5qrqFGfJDJ4s-sq7XxYZ7UgnrKSl-d44hTbTLt1VtW3C9Kwb",
+          "url": "https://en.wikipedia.org/wiki/Lil_Rel_Howery"
+        },
+        "url": "http://www.cc.com/comedians/lil-rel"
+      },
+      "resultScore": 15.610243
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11fy4tpzcn",
+        "name": "No Good Deed",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2017 film",
+        "detailedDescription": {
+          "articleBody": "No Good Deed is a 2017 American superhero short film based on the Marvel Comics character Deadpool, distributed by 20th Century Fox. ",
+          "url": "https://en.wikipedia.org/wiki/No_Good_Deed_(2017_film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.528661
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0k8pfmf",
+        "name": "Matthew Stanley",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "New Zealand swimmer",
+        "detailedDescription": {
+          "articleBody": "Matthew Stanley is a New Zealand swimmer. His home town is Matamata. At the 2012 Summer Olympics he competed in the men's 400 metre freestyle, finishing in 15th place in the heats, failing to reach the final.\n",
+          "url": "https://en.wikipedia.org/wiki/Matthew_Stanley",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.462076
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0b7l4x",
+        "name": "Smokin' Aces",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2006 film",
+        "detailedDescription": {
+          "articleBody": "Smokin' Aces is a 2007 British-American action thriller film written and directed by Joe Carnahan.\nThe film centers on the chase for Las Vegas magician turned mafia informant Buddy \"Aces\" Israel, on whom a one million dollars bounty is placed, with Ryan Reynolds, Ben Affleck, Jason Bateman, Common, Andy García, Alicia Keys, Taraji P. ",
+          "url": "https://en.wikipedia.org/wiki/Smokin'_Aces",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.smokinaces.net/"
+      },
+      "resultScore": 15.39873
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0kd528h",
+        "name": "Arun Panchia",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "New Zealand player",
+        "detailedDescription": {
+          "articleBody": "Arun Panchia is a New Zealand field hockey player of Indian origin. He has competed for the New Zealand men's national field hockey team since 2009, including at the 2010 Commonwealth Games, where he was part of the bronze medal-winning team, and the 2014 Commonwealth Games.",
+          "url": "https://en.wikipedia.org/wiki/Arun_Panchia",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.253692
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0pcnh5j",
+        "name": "Tim Miller",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American film director",
+        "image": {
+          "contentUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcSgWxMcZ4oB0iwGFuRrqA9ZZ5bA3GKlXPjLZKJa1YgPuErxbsbY",
+          "url": "https://zh.wikipedia.org/wiki/%E6%8F%90%E5%A7%86%C2%B7%E7%B1%B3%E5%8B%92"
+        },
+        "detailedDescription": {
+          "articleBody": "Timothy Miller is an American film director and visual effects artist. He made his feature-film directing debut with Deadpool. He was nominated for the Academy Award for Best Animated Short Film as co-story writer and executive producer of the short animated film Gopher Broke. ",
+          "url": "https://en.wikipedia.org/wiki/Tim_Miller_(director)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.187283
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0mdqp",
+        "name": "Ben Stiller",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcTPyVFsm32V0ar2WipRjEoCxWgaEcHYMkoJZWL-RVGbf8r76YFt",
+          "url": "https://commons.wikimedia.org/wiki/File:Ben_Stiller_2010_(Cropped).jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Benjamin Edward Meara Stiller is an American actor, comedian, writer, producer, and director. He is the son of veteran comedians and actors Jerry Stiller and Anne Meara.\n",
+          "url": "https://en.wikipedia.org/wiki/Ben_Stiller",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.18451
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0w29f81",
+        "name": "The Voices",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2014 film",
+        "image": {
+          "contentUrl": "http://t3.gstatic.com/images?q=tbn:ANd9GcS3100rhMhQrhMna0IPOAwx90g_aYEKkAHePynDWEEbz3nHT5jf",
+          "url": "https://commons.wikimedia.org/wiki/File:Ryan_Reynolds_2014_TIFF_The_Voices_Premiere.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "The Voices is a 2014 black comedy horror film. Directed by Marjane Satrapi and written by Michael R. Perry, the film stars Ryan Reynolds, Gemma Arterton, Anna Kendrick and Jacki Weaver. ",
+          "url": "https://en.wikipedia.org/wiki/The_Voices",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.165759
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/05zvj3m",
+        "name": "MTV Movie Award for Best Comedic Performance",
+        "@type": [
+          "Thing"
+        ],
+        "description": "Award",
+        "detailedDescription": {
+          "articleBody": "This is a following list of the MTV Movie Award winners and nominees for Best Comedic Performance. The award was not given in the 2013 ceremony.",
+          "url": "https://en.wikipedia.org/wiki/MTV_Movie_Award_for_Best_Comedic_Performance",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.137305
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0c_2_y",
+        "name": "The Alarmist",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "1997 film",
+        "detailedDescription": {
+          "articleBody": "The Alarmist, also known as Life During Wartime, is a 1997 film written and directed by Evan Dunsky, starring David Arquette, Stanley Tucci, with Kate Capshaw and Ryan Reynolds. The film is an adaptation of a play written by Keith Reddin.",
+          "url": "https://en.wikipedia.org/wiki/The_Alarmist",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 15.131914
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/09k25kt",
+        "name": "Brian Medavoy",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Talent manager",
+        "image": {
+          "contentUrl": "http://t2.gstatic.com/images?q=tbn:ANd9GcTm1qNWfIqxWeXT8aQthnkX37SVEM2Ldx1BLrDm5n36whQDjolr",
+          "url": "https://en.wikipedia.org/wiki/Brian_Medavoy"
+        }
+      },
+      "resultScore": 15.007071
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/05f678_",
+        "name": "Gulliver McGrath",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Australian actor"
+      },
+      "resultScore": 14.973478
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0yn_329",
+        "name": "Self/less",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2015 film",
+        "detailedDescription": {
+          "articleBody": "Self/less is a 2015 American science fiction action thriller film directed by Tarsem Singh, produced by Ram Bergman and James D. Stern and written by Alex and David Pastor. The film tells the story of a business tycoon and billionaire named Damian Hale, who is diagnosed with a deadly illness. ",
+          "url": "https://en.wikipedia.org/wiki/Self/less",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.focusfeatures.com/selfless"
+      },
+      "resultScore": 14.963362
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0tlmthm",
+        "name": "Mississippi Grind",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2015 film",
+        "detailedDescription": {
+          "articleBody": "Mississippi Grind is a 2015 American drama film directed and written by Anna Boden and Ryan Fleck. It stars Ryan Reynolds, Ben Mendelsohn, Sienna Miller, Analeigh Tipton, Robin Weigert, and Alfre Woodard. The film was released by A24 on September 25, 2015.",
+          "url": "https://en.wikipedia.org/wiki/Mississippi_Grind",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.928794
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0h4ttl",
+        "name": "E. Randol Schoenberg",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Attorney",
+        "detailedDescription": {
+          "articleBody": "E. Randol Schoenberg is a U.S. attorney and genealogist, based in Los Angeles, California, specializing in legal cases related to the recovery of looted or stolen artworks, particularly those by the Nazi regime during the Holocaust.\n",
+          "url": "https://en.wikipedia.org/wiki/E._Randol_Schoenberg",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.924705
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/03mgfvv",
+        "name": "William Ryan",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "Irish Politician",
+        "detailedDescription": {
+          "articleBody": "William Ryan was an Irish Fianna Fáil politician from County Tipperary in Ireland. He was a senator from 1961 to 1989.\nBorn in Kilfracle, County Tipperary, Ryan was elected in 1961 to the 10th Seanad on the Agricultural Panel. ",
+          "url": "https://en.wikipedia.org/wiki/William_Ryan_(Irish_politician)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.81967
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/027krx2",
+        "name": "The Nines",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2007 film",
+        "detailedDescription": {
+          "articleBody": "The Nines is a 2007 science fiction psychological thriller film written and directed by John August and starring Ryan Reynolds, Hope Davis, Melissa McCarthy, and Elle Fanning. ",
+          "url": "https://en.wikipedia.org/wiki/The_Nines",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "url": "http://www.lookforthenines.com/"
+      },
+      "resultScore": 14.734971
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/065xxm",
+        "name": "Chris Pratt",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t2.gstatic.com/images?q=tbn:ANd9GcTyxBVozonX6cSPwRsY12P8k4RIGbmnAMXPeXcrug-9ysn1HOs4",
+          "url": "https://commons.wikimedia.org/wiki/File:Chris_Pratt_-_Guardians_of_the_Galaxy_premiere_-_July_2014_(cropped).jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Christopher Michael Pratt is an American actor. Pratt came to prominence with his television roles, particularly for his role as Andy Dwyer in the NBC sitcom Parks and Recreation, for which he received critical acclaim and was nominated for the Critics' Choice Television Award for Best Supporting Actor in a Comedy Series in 2013. ",
+          "url": "https://en.wikipedia.org/wiki/Chris_Pratt",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.72637
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/05rnqf",
+        "name": "Eoin Ryan Snr",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Irish Politician",
+        "detailedDescription": {
+          "articleBody": "Eoin David Ryan was an Irish Fianna Fáil politician, and a Senator for thirty years.\nRyan was born in Dublin. When Ryan was born, his father and mother were actively engaged in the War of Independence. ",
+          "url": "https://en.wikipedia.org/wiki/Eoin_Ryan_Snr",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.643067
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/010ql3wb",
+        "name": "Woman in Gold",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2015 film",
+        "detailedDescription": {
+          "articleBody": "Woman in Gold is a 2015 biographical drama film directed by Simon Curtis and written by Alexi Kaye Campbell. The film stars Helen Mirren, Ryan Reynolds, Daniel Brühl, Katie Holmes, Tatiana Maslany, Max Irons, Charles Dance, Elizabeth McGovern, and Jonathan Pryce.\n",
+          "url": "https://en.wikipedia.org/wiki/Woman_in_Gold_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.63968
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/02v_l7j",
+        "name": "Yūya Uchida",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Japanese actor",
+        "detailedDescription": {
+          "articleBody": "Yūya Uchida is a Japanese actor and voice actor who is a member of the Haiyuza Theatre Company.",
+          "url": "https://en.wikipedia.org/wiki/Y%C5%ABya_Uchida_(voice_actor)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.563256
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0jt0fps",
+        "name": "2011 MTV Movie Awards",
+        "@type": [
+          "Event",
+          "Thing"
+        ],
+        "description": "Award ceremony",
+        "detailedDescription": {
+          "articleBody": "The 2011 MTV Movie Awards were held on June 5, 2011 at the Universal Amphitheatre and were hosted by Jason Sudeikis.\nOn May 3, the nominees were announced. ",
+          "url": "https://en.wikipedia.org/wiki/2011_MTV_Movie_Awards",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.377604
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11c4btckgg",
+        "name": "74th Golden Globe Awards",
+        "@type": [
+          "Event",
+          "Thing"
+        ],
+        "description": "Award ceremony",
+        "detailedDescription": {
+          "articleBody": "The 74th Golden Globe Awards honored film and American television of 2016 and was broadcast live on January 8, 2017 from The Beverly Hilton in Beverly Hills, California beginning at 5:00 p.m. PST / 8:00 p.m. EST by NBC. ",
+          "url": "https://en.wikipedia.org/wiki/74th_Golden_Globe_Awards",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.341973
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/04z_qg2",
+        "name": "Rebecca Ferguson",
+        "@type": [
+          "Person",
+          "Thing"
+        ],
+        "description": "Swedish actress",
+        "image": {
+          "contentUrl": "http://t2.gstatic.com/images?q=tbn:ANd9GcRPV5aFGn19r4YOpSWXIofduU98R2OCXtw5vNlHavZTQVY4pz6p",
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Ferguson"
+        },
+        "detailedDescription": {
+          "articleBody": "Rebecca Louisa Ferguson Sundström, known professionally as Rebecca Ferguson, is a Swedish actress. She is known for her portrayal of Elizabeth Woodville in The White Queen, which earned her a nomination for the Golden Globe Award for Best Actress – Miniseries or Television Film, and her roles as Ilsa Faust in Mission: Impossible – Rogue Nation, Dr. ",
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Ferguson",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.335893
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/g/11c5rmd519",
+        "name": "43rd People's Choice Awards",
+        "@type": [
+          "Event",
+          "Thing"
+        ],
+        "description": "Award ceremony"
+      },
+      "resultScore": 14.288319
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0bbq_v",
+        "name": "Chaos Theory",
+        "@type": [
+          "Movie",
+          "Thing"
+        ],
+        "description": "2007 film",
+        "detailedDescription": {
+          "articleBody": "Chaos Theory is a 2008 comedy-drama film starring Ryan Reynolds, Emily Mortimer, and Stuart Townsend. The film was directed by Marcos Siega, written by Daniel Taplitz and Kathy Gori, and was shot in Coquitlam and Squamish, British Columbia.",
+          "url": "https://en.wikipedia.org/wiki/Chaos_Theory_(film)",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.258363
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/0c63ld",
+        "name": "Cam Gigandet",
+        "@type": [
+          "Thing",
+          "Person"
+        ],
+        "description": "American actor",
+        "image": {
+          "contentUrl": "http://t3.gstatic.com/images?q=tbn:ANd9GcRAzypa_46caHP9eWjyD6H--fCNBV4skc--a0HW1U36UNMxA7Rc",
+          "url": "https://commons.wikimedia.org/wiki/File:Cam_at_the_bar.jpg"
+        },
+        "detailedDescription": {
+          "articleBody": "Cam Joslin Gigandet is an American actor whose credits include a recurring role on The O.C. and appearances in feature films Twilight, Pandorum, Never Back Down, Burlesque, Easy A, The Roommate and Priest. ",
+          "url": "https://en.wikipedia.org/wiki/Cam_Gigandet",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.240235
+    },
+    {
+      "@type": "EntitySearchResult",
+      "result": {
+        "@id": "kg:/m/03d6qds",
+        "name": "T. A. Hasler House",
+        "@type": [
+          "CivicStructure",
+          "TouristAttraction",
+          "Thing",
+          "SingleFamilyResidence",
+          "LandmarksOrHistoricalBuildings",
+          "Place"
+        ],
+        "image": {
+          "contentUrl": "http://t2.gstatic.com/images?q=tbn:ANd9GcTPzWpAv2WEW3wC2HpKNmZj7NWNOtJxIUb2C4SWBZyeycL4XRx7",
+          "url": "https://en.wikipedia.org/wiki/T._A._Hasler_House"
+        },
+        "detailedDescription": {
+          "articleBody": "The T. A. Hasler House is a Classical Revival style house located in Bastrop, Texas. The two-story house was renovated from a farm-house-style dwelling by Marie Hasler, after the death of her husband T. A. Hasler. ",
+          "url": "https://en.wikipedia.org/wiki/T._A._Hasler_House",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        }
+      },
+      "resultScore": 14.237382
+    }
+  ]
+}

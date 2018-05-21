@@ -8,7 +8,29 @@ the wiki links and also person's organizations in a Json format.
 
 
 
-Backup:
+Idea:
 
-http://schema.org/Person
+#For each entity,
+#Topmost entry in knowledge graph (if type is person)
+
+Format in proper Json
+
+(keep trying to show works_for )
+
+#Backup:
+
+http://schema.org/Person  (works_for?) (is it possible to show more fields?)
 Wiki links are already available
+(add some more?)
+
+Last resort:
+
+Directly show knowledge graph entry for single query
+
+Possible investigation:
+
+#Q. Might NLP's content classification help?
+#A. Probably not. Content classification needs at least 20 tokens.
+
+Q. Entity analysis-knowledge graph entry?
+A. Definitely worth a shot. Entity analysis works good with the Michael Caravaggio example.
