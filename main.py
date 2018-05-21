@@ -7,7 +7,7 @@ import urllib
 import six
 
 ''' This is using Google NLP API'''
-
+'''
 def entities_text(text):
     """Detects entities in the text."""
     client = language.LanguageServiceClient()
@@ -36,12 +36,12 @@ def entities_text(text):
         print(u'{:<16}: {}'.format('salience', entity.salience))
         print(u'{:<16}: {}'.format('wikipedia_url',
               entity.metadata.get('wikipedia_url', '-')))
-
+'''
 
 api_key = 'AIzaSyDrQNV9Mb8uS19YHaVM8kNuWgvYu32JlBs'
-query = 'Soham Sarkar'
+query = 'Ryan Reynolds'
 
-entities_text(query)
+#entities_text(query)
 
 '''This is using Google Knowledge Graph API'''
 
@@ -55,4 +55,10 @@ params = {
 url = service_url + '?' + urllib.urlencode(params)
 response = json.loads(urllib.urlopen(url).read())
 for element in response['itemListElement']:
-    print element['result']['name'] + ' (' + str(element['resultScore']) + ')'
+    try:
+        print element['result']['name'] + ' (' + str(element['resultScore']) + ')'+' : '+element['result']['detailedDescription']['url']
+    except KeyError:
+        print element['result']['name'] + ' (' + str(element['resultScore']) + ')'
+    if "Person" in element['result']['@type']:
+        print "This is a man"
+    #entities_text(element['result']['name'])
