@@ -1,0 +1,7 @@
+hunter.io
+voilanorbert
+anymailfinder
+lusha
+
+write a program to take texts and call the Google cloud NLP API and returns all
+the wiki links and also person's organizations in a Json format.
