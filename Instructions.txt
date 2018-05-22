@@ -12,7 +12,9 @@ Idea:
 
 #For each entity,
 #Topmost entry in knowledge graph (if type is person)
+(BAAT question says one person)
 
+Search KG by ID if possible
 Format in proper Json
 
 (keep trying to show works_for )
@@ -34,3 +36,6 @@ Possible investigation:
 
 Q. Entity analysis-knowledge graph entry?
 A. Definitely worth a shot. Entity analysis works good with the Michael Caravaggio example.
+   BAAT does not work for queries like "Highway in India": KG works, NLP doesn't
+   (try only KG for such cases?)
+   However NLP API recognises errors

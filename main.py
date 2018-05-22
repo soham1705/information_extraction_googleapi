@@ -31,20 +31,21 @@ def entities_text(text):
     entity_type = ('UNKNOWN', 'PERSON', 'LOCATION', 'ORGANIZATION',
                    'EVENT', 'WORK_OF_ART', 'CONSUMER_GOOD', 'OTHER')
 
-    for entity in entities:
-        print('=' * 20)
-        print(u'{:<16}: {}'.format('name', entity.name))
-        print(u'{:<16}: {}'.format('type', entity_type[entity.type]))
-        #print(u'{:<16}: {}'.format('metadata', entity.metadata))
-        print(u'{:<16}: {}'.format('salience', entity.salience))
-        print(u'{:<16}: {}'.format('wikipedia_url',
-              entity.metadata.get('wikipedia_url', '-')))
+    all_entities={}
+    all_entities['entities']=[]
 
-        knowledge_graph_entries(entity.name)
+    for entity in entities:
+
+        if knowledge_graph_entries(entity.name)!={}:
+            all_entities['entities'].append(knowledge_graph_entries(entity.name)) #,entity.metadata["mid"])
+        else:
+            all_entities['entities'].append({'name':entity.name,'type':entity_type[entity.type]})
+
+    return all_entities
 
 #entities_text(query)
 
-def knowledge_graph_entries(query):
+def knowledge_graph_entries(query):#,id):
 
     '''This is using Google Knowledge Graph API'''
 
@@ -53,21 +54,34 @@ def knowledge_graph_entries(query):
     service_url = 'https://kgsearch.googleapis.com/v1/entities:search'
     params = {
         'query': query,
-        #'ids':'/m/036hf4',
+        #'ids':id,
         'limit': 1,
         'indent': True,
         'key': api_key,
     }
     url = service_url + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
+    #print response
+    d={}
     for element in response['itemListElement']:
         try:
-            print element['result']['name'] + ' (' + str(element['resultScore']) + ')'+' : '+element['result']['detailedDescription']['url']
-        except KeyError:
-            print element['result']['name'] + ' (' + str(element['resultScore']) + ')'
-        if "Person" in element['result']['@type']:
-            print "This is a person"
+            #print element['result']['name'] + ' (' + str(element['resultScore']) + ')'+' : '+element['result']['detailedDescription']['url']
+            d={'name':element['result']['name'],'type':element['result']['@type'],
+                'description':element['result']['detailedDescription']['articleBody'],
+                'url':element['result']['detailedDescription']['url']}
+        except KeyError('detailedDescription'):
+            #print element['result']['name'] + ' (' + str(element['resultScore']) + ')'
+            d={'name':element['result']['name'],'type':element['result']['@type'],
+                'description':element['result']['description']}
+
+    return d
         #entities_text(element['result']['name'])
 
 query = sys.argv
-entities_text(' '.join(query[1:]))
+query=' '.join(query[1:])
+try:
+    d=entities_text(query)
+except KeyError('itemListElement'):
+    d=knowledge_graph_entries(query)
+with open('output.json','w+') as f:
+    json.dump(d,f)
