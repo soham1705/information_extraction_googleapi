@@ -1,1 +1,22 @@
-{"entities": [{"url": "https://en.wikipedia.org/wiki/Bill_Gates", "type": ["Thing", "Person"], "name": "Bill Gates", "description": "William Henry Gates III is an American business magnate, investor, author, philanthropist, humanitarian, and principal founder of Microsoft Corporation. "}, {"type": ["Person", "Thing"], "name": "Steve Jobs", "description": "American entrepreneur"}]}
+{
+  "entities": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bill_Gates", 
+      "detailed description": "William Henry Gates III is an American business magnate, investor, author, philanthropist, humanitarian, and principal founder of Microsoft Corporation. ", 
+      "type": [
+        "Thing", 
+        "Person"
+      ], 
+      "name": "Bill Gates", 
+      "description": "American business magnate"
+    }, 
+    {
+      "type": [
+        "Person", 
+        "Thing"
+      ], 
+      "name": "Steve Jobs", 
+      "description": "American entrepreneur"
+    }
+  ]
+}
