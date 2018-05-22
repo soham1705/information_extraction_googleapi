@@ -25,7 +25,7 @@ def entities_text(text):
     # Detects entities in the document. You can also analyze HTML with:
     #   document.type == enums.Document.Type.HTML
     entities = client.analyze_entities(document).entities
-    #print entities
+    print entities
 
     # entity types from enums.Entity.Type
     entity_type = ('UNKNOWN', 'PERSON', 'LOCATION', 'ORGANIZATION',
@@ -61,7 +61,7 @@ def knowledge_graph_entries(query):#,id):
     }
     url = service_url + '?' + urllib.urlencode(params)
     response = json.loads(urllib.urlopen(url).read())
-    #print response
+    print response
     d={}
     for element in response['itemListElement']:
         try:
@@ -69,7 +69,7 @@ def knowledge_graph_entries(query):#,id):
             d={'name':element['result']['name'],'type':element['result']['@type'],
                 'description':element['result']['detailedDescription']['articleBody'],
                 'url':element['result']['detailedDescription']['url']}
-        except KeyError('detailedDescription'):
+        except KeyError:
             #print element['result']['name'] + ' (' + str(element['resultScore']) + ')'
             d={'name':element['result']['name'],'type':element['result']['@type'],
                 'description':element['result']['description']}
