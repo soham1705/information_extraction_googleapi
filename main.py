@@ -49,7 +49,7 @@ def knowledge_graph_entries(query):#,id):
 
     '''This is using Google Knowledge Graph API'''
 
-    api_key = 'AIzaSyDrQNV9Mb8uS19YHaVM8kNuWgvYu32JlBs'
+    api_key = ''
 
     service_url = 'https://kgsearch.googleapis.com/v1/entities:search'
     params = {
